@@ -1,0 +1,7 @@
+{
+
+    "username" : "input#txtUsername",
+    "password" : "input#txtPassword",
+    "submitbtn" : "input[name=Submit]"
+
+}

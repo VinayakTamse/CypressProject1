@@ -1,0 +1,4 @@
+{
+    "user_css" : "input[id='txtUsername']",
+    "userPass_css" : "input[id=txtPassword]"
+}

@@ -1,0 +1,10 @@
+{
+    "protocol": "http",
+    "host": "vehd750s21007",
+    "domain": "dhcp.wdf.sap.corp",
+    "port": "50100",
+    "nwaSuffix":"nwa",
+    "user": "Administrator",
+    "password": "Abcd1234"
+    
+}
