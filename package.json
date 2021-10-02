@@ -1,0 +1,16 @@
+{
+  "name": "cypressauto",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "RunCypress": "node_modules/.bin/cypress open"
+  },
+  "author": "Vinayak",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^6.6.0"
+  },
+  "dependencies": {}
+}
